@@ -23,5 +23,19 @@ What to Analyze?
 8.Highest selling category?, etc.
 
 __My Report__
+![Lucky Annual Report Screenshot](https://github.com/Abhay-kumar-10/Lucky-Store-Annual-Report-Excel/assets/174067313/34e1db9f-febe-4199-9076-5f5add9d894e)
+
+__INSIGHT__
+1.Women are more likely to buy compared to men (~65%)
+
+2.Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+
+3.Adult age group (30-49 yrs) is max contributing (~50%)
+
+4.Amazon, Flipkart and Myntra channels are max contributing (~80%)
+
+<h1><b>Final Conclusion to improve Vrinda store sales:</b></h1>
+Target women customers of age group (30-49 yrs) living in Maharashtra,Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+
 
 
